@@ -49,4 +49,5 @@ fate and will not print out the missing elements:
   }
 }
 ```
-You see the YAML input in yp.go
+You see the YAML input in yp.go, I think that YAML is not formed properly and that is why
+you don't have an arry but just a single element.
